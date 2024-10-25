@@ -1,9 +1,5 @@
 Traffic Patterns Analysis
 
-Project Overview
-
-This project analyzes traffic patterns using a variety of machine learning models. It explores multiple datasets related to traffic conditions and patterns and applies classification algorithms to predict outcomes based on given features.
-
 The notebook focuses on the following:
 - Data preprocessing and exploration.
 - Training and testing machine learning models.
